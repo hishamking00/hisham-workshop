@@ -1,0 +1,290 @@
+body {
+    margin: 0;
+    font-family: 'Mulish', sans-serif;
+}
+
+.main-header {
+    width: 80%;
+    margin: auto;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.main-header .h-taskia {
+    float: left;
+    color: #525ffb;
+}
+
+.main-header .btn-try {
+    float: right;
+    border: none;
+}
+
+.main-header .btn-try .btn--try {
+    width: 150px;
+    height: 60px;
+    margin: 10px 30px 60px 12px;
+    padding: 15px 30px 15px 32px;
+    border-radius: 100px;
+    border: solid 2px #525ffb;
+    font-size: 18px;
+    color: #525ffb;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.clearr {
+    clear: both;
+}
+
+.first-section {
+    width: 100%;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.first-child {
+    width: 50%;
+    display: inline-block;
+}
+
+.first-section .first-child .h-task {
+    margin-top: 200px;
+    width: 700px;
+    height: 205px;
+    margin: 0 0 19px 2.5px;
+    font-size: 70px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.39;
+    letter-spacing: -0.49px;
+    text-align: left;
+    color: #1e1c24;
+}
+
+.first-section .first-child span {
+    width: 616px;
+    height: 116px;
+    margin: 19px 84px 60px 2.5px;
+    font-size: 20px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.75;
+    letter-spacing: normal;
+    text-align: left;
+    color: #b1aaaa;
+}
+
+.signup-form {
+    width: 396.7px;
+    height: 77px;
+    margin-top: 50px;
+    border-radius: 100px;
+    border: solid 2px #ebebeb;
+}
+
+.btn-2 {
+    float: right;
+    width: 229.7px;
+    height: 77px;
+    margin: 0 0 0 39.8px;
+    padding: 22px 69.7px 24px 56px;
+    border-radius: 100px;
+    background-color: #525ffb;
+    cursor: pointer;
+}
+
+.first-child .btn-link-2 {
+    width: 104px;
+    height: 31px;
+    font-family: Poppins;
+    font-size: 40px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 3.96;
+    letter-spacing: 0.92px;
+    text-align: left;
+    color: #ffffff;
+}
+
+.first-section .img-section {
+    width: 50%;
+    float: right;
+}
+
+.first-section .img-section img {
+    width: 100%;
+    height: 826px;
+    object-fit: contain;
+}
+
+.clear2 {
+    clear: both;
+}
+
+.h-details {
+    margin: auto;
+}
+
+.h-details h1 {
+    margin: 283px 100px 41px 72px;
+    font-size: 50px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: normal;
+    text-align: center;
+    color: #1e1c24;
+}
+
+.cards-section {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+}
+
+.cards-section .first-card {
+    background-color: #525ffb;
+    width: 363.7px;
+    height: 400px;
+    margin: 41px 50px 424.7px 38.2px;
+    padding: 62.7px 26.7px 32.3px 27px;
+    border-radius: 11px;
+    background-color: #525ffb;
+    text-align: center;
+    color: white;
+}
+
+.cards-section .first-card h3 {
+    color: #ffffff;
+    font-size: 22px;
+}
+
+.cards-section .first-card span {
+    width: 310px;
+    height: 78px;
+    margin: 34px 0 0;
+    font-size: 16px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.63;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+}
+
+.cards-section .second-card {
+    width: 363.7px;
+    height: 476.3px;
+    margin: 130px 76.3px 335.7px;
+    padding: 50.3px 26.7px 31.3px 27px;
+    border-radius: 11px;
+    background-color: #e9f0ff;
+}
+
+.cards-section .second-card h3 {
+    color: black;
+    font-size: 22px;
+    text-align: center;
+}
+
+.cards-section .second-card span {
+    width: 310px;
+    height: 78px;
+    margin: 34px 0 0;
+    font-size: 16px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.63;
+    letter-spacing: normal;
+    text-align: center;
+    color: black;
+}
+
+.cards-section .third-card {
+    width: 363.7px;
+    height: 476.3px;
+    margin: 71px 12.3px 394.7px 2px;
+    padding: 46.4px 24.7px 24.3px 25px;
+    border-radius: 11px;
+    background-color: #ffe7aa;
+}
+
+.cards-section .third-card h3 {
+    color: black;
+    font-size: 22px;
+    text-align: center;
+}
+
+.cards-section .third-card span {
+    width: 310px;
+    height: 78px;
+    margin: 34px 0 0;
+    font-size: 16px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.63;
+    letter-spacing: normal;
+    text-align: center;
+    color: black;
+}
+
+.pros-section {
+    margin-left: 170px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.pros-section .pros-img-section {
+    width: 50%;
+}
+
+.pros-section .pros-content-section {
+    width: 50%;
+}
+
+.pros-section .pros-content-section h3 {
+    width: 552px;
+    height: 190px;
+    font-size: 50px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: normal;
+    text-align: left;
+    color: #1e1c24;
+}
+
+.pros-section .pros-content-section span {
+    width: 552px;
+    height: 133px;
+    font-size: 18px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.67;
+    letter-spacing: normal;
+    text-align: left;
+    color: #b1aaaa;
+}
+
+.pros-section .pros-content-section .btn-pros {
+    width: 279px;
+    height: 77px;
+    margin: 39px 19px 391px 27px;
+    padding: 22px 87px 24px 69px;
+    border-radius: 100px;
+    background-color: #525ffb;
+    color: white;
+    font-size: 22px;
+    text-align: center;
+    cursor: pointer;
+}
